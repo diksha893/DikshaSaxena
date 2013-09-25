@@ -1,0 +1,13 @@
+Git Commands:
+1.git config --global :- If you are using git first time then cofig your identity in git bash by using this command with git config --global user.email "user@some.com" and git config --global user.name "Your name".
+2.mkdir ~/Name_of_your_project :- Make a new project in your default directory.
+3.cd ~/Name_of_your_project :- Direct towards the directory.
+4.git init :- create an empty Git Repository or reinitiate the existing one.
+5.touch My_project :-add the file to the repository.
+6.git add My_project :-add the file to the stagging area.
+7.git commit -m "commit message " :- It is a snapshot of your project at that time and save changes to your repository.Commit message is important so that in future commit message should be able to explain you the properties of your project.
+8.git remote add origin https://github.com//username/Name_of_your_project :- Connect local repository to your GitHub account.
+9.git push origin master :- push yoour commits to your account.
+10.git commit -a -m "Project_Name" :- Commit your changes without going through stagging areas.
+11.git reset --hard HEAD~1 :- Undo your last commit through stagging.
+12.git mv MyProject.txt NewProject.txt :- Chenge your file name from MyProject to NewProject.

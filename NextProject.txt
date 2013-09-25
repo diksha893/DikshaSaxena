@@ -1,0 +1,6 @@
+My next project should be Bulls and Cows.
+Project Description:-
+It's a 4-digit gussing game.It's a two player game.Each player inputs a four-digit number. The digits must all be different. (For example, 4728 would be legal, but 4724 would not be legal.)In turn, players try to guess their opponent's number, then some output will be shown in the format like XBYC, where X is no. of Bulls and Y is no. of Cows.
+A digit which is in the number but not announced in the correct position is a "COW." A digit which is in the number and is announced in the correct position is a "BULL."
+The first player to reveal his opponent's secret number wins.
+Here is a link for this game: http://en.wikipedia.org/wiki/Bulls_and_cows . 
